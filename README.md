@@ -22,8 +22,9 @@ AR갈리할리
 
 ### 개발환경
 - 사용엔진: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" width="90px" height="30px" title="unity_image" alt="RubberDuck"></img> [(2019.3.14f)](https://unity3d.com/unity/whats-new/2019.3.14 "2019.3.14 link")   
-- 사용언어: <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a><img src="https://img.shields.io/badge/Visual Studio 2019-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>   
+- 사용언어: <img src="https://img.shields.io/badge/239120?style=flat-square&logo=C Sharp&logoColor=white"/></a><img src="https://img.shields.io/badge/5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp      
 - 구현된 점: 디자인패턴 적용(Singleton), 게임 데이터 DB(<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>)적재   
+ 
 
 ### 만들면서
 게임 내 데이터 저장을 위해 다양한 방법을 시도했었음   
