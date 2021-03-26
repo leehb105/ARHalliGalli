@@ -27,11 +27,10 @@ AR갈리할리
  http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/
 
 ### 만들면서
-게임 내 데이터 저장을 위해 다양한 방법을 시도했었음   
-1. JSON형식으로 데이터 입출력을 시도 했으나 유지보수 측면에서 난항을 겪음   
-2. 대중적인 OLACLE DB를 네트워크 연동하려 했으나 저장데이터가 크지 않고 입출력이 적어서 사용이 적절하지 않다고 판단   
-3. 비교적 가벼운 내장형 DB를 사용하기 위해 SQLite를 유니티에 연동하여 사용함   
-	 -> 비용과 메모리 절약 가능
+카드 관리는 리스트 형태로 생성, 배분 했음     
+1. 2차배열로 관리 하려 했으나 카드 관리가 비효율적임   
+2. //수정
+3. 
 
  
   
@@ -40,6 +39,4 @@ AR갈리할리
 영상 링크 : //추가예정
 
 기술서 링크 : //추가예정
-
-<img src="https://github.com/leehb105/FoodPlanetVR/blob/main/Assets/4.Images/Poster/Poster.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="image"></img>
 
