@@ -21,7 +21,7 @@ AR갈리할리
 5. 카드가 먼저 떨어진 플레이어의 패배, 최후의 1인이 남을 때까지 플레이한다.      
  
 ### 조작법
-<img src="https://github.com/leehb105/ARHalliGalli/blob/main/Assets/GitImages/rule.PNG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="image"></img>  
+<img src="https://github.com/leehb105/ARHalliGalli/blob/main/Assets/GitImages/rule.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="image"></img>  
 
 ### 이미지
 //추가예정
