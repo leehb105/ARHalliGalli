@@ -5,6 +5,7 @@ AR갈리할리
 >>장소에 구애 받지 않고 할리갈리를 즐길 수 있다!'   
 >>~~이름이 조금 이상해 보이는건 착각!~~*
 
+<img src="https://github.com/leehb105/ARHalliGalli/Assets/GitImages/메인.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="image"></img>   
 
 ## 게임 개요
 
