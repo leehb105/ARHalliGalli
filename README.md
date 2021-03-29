@@ -28,7 +28,7 @@ AR갈리할리
 
 ## 프로젝트 개요
 - 클래식 게임 '할리갈리'를 AR로 구현해 낸 게임
-- AR Foundation을 사용해 개발
+- [AR Foundation](https://unity.com/kr/unity/features/arfoundation)을 사용해 개발
 
 ### 개발환경
 - 사용엔진: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" width="90px" height="30px" title="unity_image" alt="RubberDuck"></img> [(2019.3.14f)](https://unity3d.com/unity/whats-new/2019.3.14 "2019.3.14 link")   
