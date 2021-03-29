@@ -21,7 +21,7 @@ public class CardInfo : MonoBehaviour
     public void SetCardInfo(CardType type, int num)
     {
         cardType = type;
-        int nType = (int)type * 5; // 5 는 한개의 타입이 가지는 이미지 갯수->숫자 아니고 카드 타입임
+        int nType = (int)type * 5; // 5 는 한개의 타입이 가지는 이미지 갯수
         number = num;
         MeshRenderer mr = GetComponent<MeshRenderer>();
         mr.material.mainTexture = texture[nType + num];
