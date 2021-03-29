@@ -1,18 +1,25 @@
 AR갈리할리
 ============
 >할리갈리에 AR을 접목시킨 모바일 게임   
->>*'클래식 게임 할라갈리를 AR에 접목시켜    
+>>*'클래식 게임 할리갈리를 AR에 접목시켜    
 >>장소에 구애 받지 않고 할리갈리를 즐길 수 있다!'   
 >>~~이름이 조금 이상해 보이는건 착각!~~*
 
-<img src="https://github.com/leehb105/ARHalliGalli/Assets/GitImages/메인.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="image"></img>   
+<img src="https://github.com/leehb105/ARHalliGalli/blob/main/Assets/GitImages/main.PNG" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="image"></img>   
 
 ## 게임 개요
 
 ### 실행환경
-- Device - 삼성 갤럭시 S9+   
+- Device - 삼성 갤럭시 S9+(해상도: 2960x1440)   
 - Minimum SDK - Android 7.0 Nougat(API Level 24)
 
+### 룰
+1. 플레이어의 인원만큼 카드를 뒤집어 나누어 가진다
+2. 플레이어는 돌아가면서 순서대로 한 장씩 카드를 플레이어의 앞에 제출한다.
+3. 제출된 카드 중 같은 과일의 합이 5가 되면 할리갈리!(종을 울린다)
+4. 먼저 종을 울린 플레이어가 제출된 카드를 모두 가져간다.
+5. 카드가 먼저 떨어진 플레이어의 패배, 최후의 1인이 남을 때까지 플레이한다.   
+ 
 ### 조작법
 //이미지 추가 예정
 
