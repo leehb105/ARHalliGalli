@@ -10,7 +10,7 @@ AR갈리할리
 ## 게임 개요
 
 ### 실행환경
-- Device - 삼성 갤럭시 S9+   
+- Device - 삼성 갤럭시 S9+(해상도: 2960x1440)   
 - Minimum SDK - Android 7.0 Nougat(API Level 24)
 
 ###룰
