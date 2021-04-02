@@ -28,24 +28,14 @@ AR갈리할리
 
 ## 프로젝트 개요
 - 클래식 게임 '할리갈리'를 AR로 구현해 낸 게임
-- [AR Foundation](https://unity.com/kr/unity/features/arfoundation)을 사용해 개발
+- [AR Foundation](https://unity.com/kr/unity/features/arfoundation)프레임워크 사용(마커방식)
 
 ### 개발환경
 - 사용엔진: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" width="90px" height="30px" title="unity_image" alt="RubberDuck"></img> [(2019.3.14f)](https://unity3d.com/unity/whats-new/2019.3.14 "2019.3.14 link")   
 - 사용언어: <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>         
 - 구현된 점: 디자인패턴 적용(Singleton)
 
-### 만들면서
-카드 관리는 리스트 형태로 생성, 배분 했음     
-1. 2차배열로 관리 하려 했으나 카드 관리가 비효율적임   
-2. //수정
-3. 
-
- 
-  
-
-    
 영상 링크 : //추가예정
 
-기술서 링크 : //추가예정
+
 
