@@ -940,6 +940,7 @@ MonoBehaviour:
   btnClick: {fileID: 8300000, guid: e8befbe4a9635d74980982e5020dc9d5, type: 3}
   cardSound: {fileID: 8300000, guid: 033fc8f9165efff418147b9ed5513eff, type: 3}
   bellRing: {fileID: 8300000, guid: 9e183263c3d4a9042affb2bf38f4c157, type: 3}
+  turnSound: {fileID: 8300000, guid: 928270ff780679646b54eb3399c5751b, type: 3}
   audioSource: {fileID: 0}
 --- !u!4 &826694532
 Transform:
