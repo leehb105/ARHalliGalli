@@ -102,6 +102,7 @@ public class PlayManager : MonoBehaviour
         resultFailmg.SetActive(false);
         playerTurn.SetActive(false);
         otherTurn.SetActive(false);
+        //resultText = resultSuccessImg.GetComponent<TextMeshProUGUI>();
     }
     public void CardCheck()
     {
@@ -170,7 +171,10 @@ public class PlayManager : MonoBehaviour
                 break;
         }
     }
-
+    /*public void PrintWinner(Player winner)
+    {
+        resultText.text = winner.ToString() + resultText.text;
+    }*/
     private void CheckWinner(Player attacker, Player notAttacker)//수정요망
     {
         // 지금 종을 때린놈이(attacker) 조건을 검사한다.
@@ -187,8 +191,7 @@ public class PlayManager : MonoBehaviour
             //그 카드의 숫자가 5이면 
             if (playerDeck.list[playerDeck.list.Count - 1].number + 1 == 5)
             {
-                StartCoroutine(WaitResultImg(true));    
-                attacker.WinPlayerGetCards();
+                StartCoroutine(WaitResultImg(true));
                 print(attacker + "가 카드 가져감");
                 state = State.PlayerTurn;
             }
@@ -257,7 +260,6 @@ public class PlayManager : MonoBehaviour
         else
         {
             StartCoroutine(WaitResultImg(false));
-
             notAttacker.WinPlayerGetCards();
             print(notAttacker + "가 카드 가져감");
             state = State.OtherTurn;
@@ -270,8 +272,8 @@ public class PlayManager : MonoBehaviour
         print("rnd" + rnd);
         if (rnd < curTime)
         {
-            CheckWinner(other, player);
         }
+            
     }
     
     private void RayTouch()
@@ -289,8 +291,7 @@ public class PlayManager : MonoBehaviour
                 //lr.SetPosition(1, hitInfo.point);
                 if (hitInfo.transform.gameObject.tag == "Bell")//벨을 누르면
                 {
-                    //print("벨에 닿았음");
-                    CheckWinner(player, other);
+                    CheckWinner(player, other);//플레이어의 승리로 판단
                     SoundManager.instance.RingBellSound();
                 }
             }
