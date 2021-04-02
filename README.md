@@ -37,6 +37,6 @@ AR갈리할리
 - 구현된 점: 디자인패턴 적용(Singleton)
 
 영상 링크 : https://youtu.be/FFyjhs1Ye1Q   
-//<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FFyjhs1Ye1Q" frameborder="0" allowfullscreen></iframe>   
 //{% include 파일명.html id="FFyjhs1Ye1Q" %} 
-
+https://www.youtube.com/watch?v=FFyjhs1Ye1Q
