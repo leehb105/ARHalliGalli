@@ -36,7 +36,7 @@ AR갈리할리
 - 사용언어: <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>         
 - 구현된 점: 디자인패턴 적용(Singleton)
 
-영상 링크 : https://youtu.be/FFyjhs1Ye1Q
-
-
+영상 링크 : https://youtu.be/FFyjhs1Ye1Q   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+{% include 파일명.html id="FFyjhs1Ye1Q" %} 
 
