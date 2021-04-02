@@ -23,8 +23,9 @@ AR갈리할리
 ### 조작법
 <img src="https://github.com/leehb105/ARHalliGalli/blob/main/Assets/GitImages/rule.png" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img>  
 
-### 이미지
-//추가예정
+### 스틸컷
+<img src="https://github.com/leehb105/ARHalliGalli/blob/main/Assets/GitImages/success.jpg" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img> 
+<img src="https://github.com/leehb105/ARHalliGalli/blob/main/Assets/GitImages/fail.jpg" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img> 
 
 ## 프로젝트 개요
 - 클래식 게임 '할리갈리'를 AR로 구현해 낸 게임
