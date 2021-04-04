@@ -34,6 +34,7 @@ AR갈리할리
 ### 개발환경
 - 사용엔진: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" width="90px" height="30px" title="unity_image" alt="RubberDuck"></img> [(2019.3.14f)](https://unity3d.com/unity/whats-new/2019.3.14 "2019.3.14 link")   
 - 사용언어: <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>         
-- 구현된 점: 디자인패턴 적용(Singleton)
-  
-<iframe width="1010" height="568" src="https://www.youtube.com/embed/FFyjhs1Ye1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- 구현된 점: 디자인패턴 적용(Singleton)  
+
+### 영상
+[<img src="https://github.com/leehb105/ARHalliGalli/blob/main/Assets/GitImages/main.PNG" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image">](https://www.youtube.com/embed/FFyjhs1Ye1Q)
